@@ -18,7 +18,7 @@ Regular expressions adalah template untuk data berdasarkan pola tertentu. Tutori
 ``` /[res]/g ``` artinya dia akan membaca dengan beberapa option. intinya dia angka membaca per character yg ada didalam option
 
 #### contoh 3
-``` /[a-z]/g ``` artinya dia akan membaca perkarakter dari hurf kecil a sama z
+``` /[a-z]/g ``` artinya dia akan membaca perkarakter dari hurf kecil a sampai z
 
 #### contoh 4
 ``` /[a-z0-9]/g ``` artinya dia akan membaca perkarakter dari hurf kecil a sampai z dan 0 sampai 9
